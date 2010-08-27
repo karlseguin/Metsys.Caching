@@ -1,0 +1,5 @@
+h2. Metsys.Caching
+
+Metsys.Caching is a wrapper for caching in .NET. Its purpose is twofold; first to provide a cache API to make your caching testable and flexible. Second, to provide some syntactical sugar to the built-in caching stuff.
+
+The "Introduction":http://openmymind.net/2010/8/24/My-DOTNET-ICache along with the comments should provide some insights on how best to make use of the library.
